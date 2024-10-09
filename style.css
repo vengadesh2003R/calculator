@@ -1,0 +1,19 @@
+header h2{
+    text-align: center;
+    align-items: center;
+    padding: 20px;  
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+button{
+    display: flex;
+     background-color: rgba(165, 42, 42, 0.151);
+}
+input{
+    border-radius: 3px;
+}
